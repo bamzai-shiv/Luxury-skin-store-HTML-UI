@@ -6,7 +6,6 @@ A modern, dependency‑free skincare storefront inspired by a warm beige glassmo
 - Zero build tools; runs on any static host.  
 - Hash routing for Home, Products, About, Reviews, Blog, Cart, Checkout, and Thank‑you.  
 - Persistent cart, theme, and user reviews via localStorage.  
-- Accessible, responsive layout with micro‑interactions and SVG‑based visuals.  
 
 ## Tech stack
 - Markup and styling: HTML, CSS (custom properties, responsive grid)  
@@ -81,12 +80,6 @@ text
 
 ## Scripts
 No build steps required; use any static server for local development.  
-
-## Roadmap
-- Coupons and promo codes.  
-- Wishlist and saved filters.  
-- Pagination or infinite scroll for large catalogs.  
-- Optional GSAP motion for hero and section reveals.  
 
 ## Contributing
 Open issues for bugs or enhancements and submit PRs from a feature branch; keep code framework‑free and avoid external dependencies where possible.  
